@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **tuguldurganbayar1014@gmail.com**
 
-- ⚡ Fun fact [has a good sense of humor](has a good sense of humor)
-
-- 💪 Also I am a **Team player.**
+- ⚡ Fun fact **has a good sense of humor. Also I'm a team player💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikk10&show_icons=true&locale=en&layout=compact" alt="sikk10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikk10&show_icons=true&locale=en" alt="sikk10" /></p>
+
 
